@@ -24,3 +24,7 @@ https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/blockchai
 
 
 https://www.udemy.com/ethereum-developer/
+
+
+
+https://github.com/ethereum/wiki/wiki/JavaScript-API
