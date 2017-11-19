@@ -1,5 +1,8 @@
 https://www.guru99.com/node-js-tutorial.html
 
+
+https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
+
 https://dappsforbeginners.wordpress.com/tutorials/your-first-dapp/
 
 https://blockgeeks.com/guides/what-is-ethereum/
